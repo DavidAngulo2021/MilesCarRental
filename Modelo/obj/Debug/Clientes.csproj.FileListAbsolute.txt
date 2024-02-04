@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\proyectoWeb\Modelo\bin\Debug\Modelo.dll
+C:\Users\David\source\repos\proyectoWeb\Modelo\bin\Debug\Modelo.pdb
+C:\Users\David\source\repos\proyectoWeb\Modelo\obj\Debug\Clientes.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\proyectoWeb\Modelo\obj\Debug\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\proyectoWeb\Modelo\obj\Debug\Modelo.dll
+C:\Users\David\source\repos\proyectoWeb\Modelo\obj\Debug\Modelo.pdb
